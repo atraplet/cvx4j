@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cvx4j" target="1.5" />
+      <module name="cvx4j" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>

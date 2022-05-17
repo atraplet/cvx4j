@@ -13,4 +13,9 @@
       <module name="cvx4j" target="18" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cvx4j" options="--add-modules jdk.incubator.foreign" />
+    </option>
+  </component>
 </project>
